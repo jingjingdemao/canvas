@@ -1,7 +1,7 @@
 # canvas
 这里是几个canvas的动画demo<br/>
  1.3D魔方<br/>
- [demo](https://github.com/jingjingdemao/canvas/blob/master/3D%E9%AD%94%E6%96%B9/index.html)<br/>
+ [demo](https://github.com/jingjingdemao/canvas/3D魔方/index.html)<br/>
  2.散花背景<br/>
  [demo](https://jingjingdemao.github.io/canvas/散花背景/index.html)<br/>
  3.圣诞节下雪<br/>
