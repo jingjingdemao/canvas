@@ -1,0 +1,13 @@
+body {
+  background-color: #2be4dc;
+  background: radial-gradient(circle, #2be4dc 0%, #243484 95%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+svg, .jellyfish {
+  height: 100vh;
+  margin: 0 auto;
+  will-change: transform;
+}
