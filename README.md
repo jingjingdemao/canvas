@@ -7,6 +7,6 @@
  3.圣诞节下雪<br/>
 [demo](https://jingjingdemao.github.io/canvas/snow/index.html)<br/>
 4.水母动画<br/>
-[demo](https://jingjingdemao.github.io/canvas/jellyfish/index.html)<br/>
+[demo](https://jingjingdemao.github.io/canvas/jellyffish/index.html)<br/>
 5.宇航员<br/>
 [demo](https://jingjingdemao.github.io/canvas/spaceman/index.html)<br/>
